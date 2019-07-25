@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TesteFindMe</string>
+    <string name="title_activity_lista">Histórico de visitas</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_lista">Lista</string>
+
+    <string name="title_activity_mapa">Sua localização</string>
+    <string name="finalizar_visita">Finalizar Visita</string>
+    <string name="iniciar_visita">Iniciar Visita</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sim">Sim</string>
+    <string name="nao">Não</string>
+    <string name="msg_confirma_sair">Deseja mesmo sair do App?</string>
+    <string name="titulo_situacao">Situação do Local</string>
+</resources>
